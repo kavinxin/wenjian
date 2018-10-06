@@ -1,0 +1,4 @@
+WARNING:root:this is a warning log!
+ERROR:root:this is a error log!
+2018-10-05 12:23:24,072:====WARNING:=====this is a warning log!.
+2018-10-05 12:23:24,072:====ERROR:=====this is a error log!.

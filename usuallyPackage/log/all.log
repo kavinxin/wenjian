@@ -1,0 +1,5 @@
+2018-10-05 13:28:39,563-DEBUG-this is a debug logg!
+2018-10-05 13:28:39,563-ERROR-this is a error log!
+2018-10-05 13:28:39,563-CRITICAL-this is a criticla log!
+2018-10-05 13:28:39,564-INFO-this is a info log!
+2018-10-05 13:28:39,564-WARNING-this is a waring log!
